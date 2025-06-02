@@ -1,0 +1,17 @@
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text": "Steam Modpack 1.0.0"
+            }
+        ]
+    },
+    "pause_menu": {
+        "bottom_right": [
+            {
+                "text": "Steam Modpack 1.0.0",
+                "color": "dark_gray"
+            }
+        ]
+    }
+}

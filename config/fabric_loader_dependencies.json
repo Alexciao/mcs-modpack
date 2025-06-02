@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "overrides": {
+        "fabricloader": { "+depends": { "fabricloader": ">=0.16.14" } },
+        "optigui": { "recommends": {} }
+    }
+}

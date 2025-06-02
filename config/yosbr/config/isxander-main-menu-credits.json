@@ -1,0 +1,10 @@
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text": "⚠️ Steam Modpack (Install Broken)",
+                "color": "red"
+            }
+        ]
+    }
+}
