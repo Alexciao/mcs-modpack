@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cherishedworlds-favorites.dat"
+hash = "d4fd486712b37b06096a3004e24e8e9eac0182c0bd66b35ef3f38f75ed7b53a2"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "f889e938a23d91a8d2355e0103cefff2424158ed1e48fc5dcc9fb2d493154a3b"
 
@@ -550,3 +554,7 @@ metafile = true
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "6c4561f13073e43d4928658fc3c0dcbd91931b4d4134ae2a8f7447111ad569ac"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "457e97a8ff3937a4044210564229b74ca84977af238d6207bc78a80344be42a7"
