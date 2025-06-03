@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Eldc1g37/versions/HraP4Op2/tcdcommons-3.12.7%2Bfabric-1.21.5.jar"
-hash-format = "sha512"
-hash = "340f5c0514c600e3a168b76d0a4aacb12e629476c10998148ec18a7cb2f5996b98337b279d6c96d15da5f8aea648360d4f3120a28812542ff5dfa1c78c9ef42e"
+hash-format = "sha256"
+hash = "4528baa07d5074ebdf349876e65d30232659229b196f7d855aa571bd62849cda"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/gPCdW0Wr/versions/26unk04q/make_bubbles_pop-0.3.1-fabric-mc1.21.2-1.21.4.jar"
-hash-format = "sha512"
-hash = "002207e7d8f40523242e030d8578fa0746050f51bb7a31ab2a12bc25927c39399e60719ab496ccf357da4afe542de3a1a1289cc29a6789396ffa9c948fa16ba2"
+hash-format = "sha256"
+hash = "37844d62884a48899eb84083ccb92d5dae4da857ea9aa04df28be59f1074cbc3"
 
 [update]
 [update.modrinth]

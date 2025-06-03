@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/gJYpGwtr/audioplayer-fabric-1.21.5-1.13.2.jar"
-hash-format = "sha512"
-hash = "ad93bcb3763126a7cb49e2c81030407508b78dd3167cbbbd6a83f1b7ae774a6f6f3be97ed2b421d59ca2837dd7a9c19689aa9961b6fce9575b1bfd8345fd911a"
+hash-format = "sha256"
+hash = "6dd7b74ddaadf999e452031abad5a6ca9b7b1fe5f36c10a6aa7e4ec28fe60eae"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nLlXyNIc/versions/J3jDDmYW/LetSleepingDogsLie-1.21.5-Fabric-1.3.0.jar"
-hash-format = "sha512"
-hash = "b5c7fb76b2f3b61c9f48d74799ad60148f5842338023251bd8a0ceafede8defe418b5e246ae4f05b0d643f3bbc11a46d505ae63af74a99e649b6b1628b601638"
+hash-format = "sha256"
+hash = "794ac0f5eff29078f6dfe60b7a8f87abbb9a3125b429f971a5436ed5d58255fb"
 
 [update]
 [update.modrinth]

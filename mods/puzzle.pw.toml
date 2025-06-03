@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3IuO68q1/versions/JyVlkrSf/puzzle-fabric-2.1.0%2B1.21.5.jar"
-hash-format = "sha512"
-hash = "fd62d7c3dc3feb8e558019fe6418a467ce77f0cb19c12948620caa833f78e6be39b2d19c39b8642424d02b7cc26c0506870184c735f4f84af6b2ad1e462b0c8e"
+hash-format = "sha256"
+hash = "0a9bc1442615ef14b8d618eac6de62407b6e1d809a30e3e2f1b58ca86af2b9a9"
 
 [update]
 [update.modrinth]

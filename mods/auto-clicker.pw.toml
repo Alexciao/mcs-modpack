@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/r8axuw4u/versions/O8mYq2zS/autoclicker-fabric-21.5.0.jar"
-hash-format = "sha512"
-hash = "2b277152256e93db71a167acb6e99adaf9af191a24c93fe9903158367d66e047aefcb83709eb034728e18ce88b539ff18d2127e1d8550ee30902db9378d456f8"
+hash-format = "sha256"
+hash = "b7a232958c30fbfdf052fe7d3e78db0378f5d84d5e0cbab1840f521facf17c21"
 
 [update]
 [update.modrinth]

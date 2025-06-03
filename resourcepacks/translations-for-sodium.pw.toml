@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yfDziwn1/versions/5JjR53Aw/SodiumTranslations.zip"
-hash-format = "sha512"
-hash = "6831b9eb21a29337a78450e10ae952c9bbc77ddea5d21a81b6cb265211307f919201c16736a0f86b9420614ea3b47e831d8fa50b50635ef7ed434a54d79420dc"
+hash-format = "sha256"
+hash = "ed0c5a64fbdb3653632e16e34080c5820f986d6f055f3a719a91cf41b2a09f88"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vNU5pyXC/versions/ni8RHZtL/BigShot-fabric-1.21.5-12.0.1.jar"
-hash-format = "sha512"
-hash = "8a87b40931515573c74e4b729e5ac0766307fa37cad419ee5bd7a8c680b2f68dc812ed50e59313182e4df09ea659a61536bdbd7ae79bfe006a860a4b90b76f47"
+hash-format = "sha256"
+hash = "8d5f47527c20fbb11b3deac8134136d9f1e72b194c311acbe689b6e317575a30"
 
 [update]
 [update.modrinth]

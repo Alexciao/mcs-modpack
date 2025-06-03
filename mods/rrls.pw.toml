@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZP7xHXtw/versions/xUn7p7zf/rrls-5.1.6%2Bmc1.21.5-fabric.jar"
-hash-format = "sha512"
-hash = "175a20ecdda2ea091330b622ba30525fd607db5835b3434c74ffe4ff46b5bc754e075010c28ef6476a5eaa14732fe8e5d99a72fc6b8d209a6eadfdd1437b5fb6"
+hash-format = "sha256"
+hash = "09d27e2dbc4a9e615df647d4de45808639bde7497bfa8f4c45ef6b99cac0f7d5"
 
 [update]
 [update.modrinth]

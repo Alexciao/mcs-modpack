@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/M08ruV16/versions/FdlWKxsL/bobby-5.2.7%2Bmc1.21.5.jar"
-hash-format = "sha512"
-hash = "bd65704f6eff8646db50b77f293e0b4f7e157d61dc565c42c1c1144371543a75f0658ce6e6dffc7f8cf629a51ef6e7dde6b8cb99f53a4f7d2540bde844c11799"
+hash-format = "sha256"
+hash = "d659f1fb1163adc6a274a61da16e60e07c30ee06dbd586001924fc2da39fd0ec"
 
 [update]
 [update.modrinth]

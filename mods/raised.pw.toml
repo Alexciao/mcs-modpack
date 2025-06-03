@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/qPVmvjcC/raised-fabric-1.21.5-4.0.1.jar"
-hash-format = "sha512"
-hash = "1538a57c4126d23efee12aedf4b7bbdfa19b743d04844e3ca133b246e6a8f0a84ce0dad7e4454a944965f25cc0b574333933cbf08071a632c172c7e7f9db2afb"
+hash-format = "sha256"
+hash = "b20fe1a374479be856d084f0faf2505a2efe7c77e9466fd515625051e4f2f8b6"
 
 [update]
 [update.modrinth]

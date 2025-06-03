@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/na1dL51S/versions/xoq7hD8B/durabilityplus_1.20.5-1.1.0.jar"
-hash-format = "sha512"
-hash = "cf0d9f7f8c57bfe82deab66000898ac53460720d0fd45f2c385f8ebe163cef5cf39841a2f16af8572aa22f14f9a4b74ccafbcb1def0a5d2e2b3a22f0343a43b1"
+hash-format = "sha256"
+hash = "f4d1d705ae57cbe9cacbd7bd2026245a6a7dab7229e6e5103abf817f3a09bfa9"
 
 [update]
 [update.modrinth]

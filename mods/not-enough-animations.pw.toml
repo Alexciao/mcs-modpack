@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/prj4BdjU/notenoughanimations-fabric-1.9.3-mc1.21.5.jar"
-hash-format = "sha512"
-hash = "2efb8f78dc57d6aa486938450e822bcb17527ae5ad83270c77c41c04cabcf0a87350205be828cce1f9ef8a4652e204641882769cd5514c76aa50f4a133df5f6b"
+hash-format = "sha256"
+hash = "e6c948182ad255678dcf8e0888bc3aef397245708686e8cc48ac157cd94db447"
 
 [update]
 [update.modrinth]
