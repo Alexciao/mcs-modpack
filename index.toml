@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "cd9dbd027d1f08fe0942d995972633cc1f68ed873c90ea9d7eaa509b005b6c43"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "2a438b39a4028d2dde56d6be9d49219b1a572cc7bd656917c8a91141244e2b5d"
+hash = "f889e938a23d91a8d2355e0103cefff2424158ed1e48fc5dcc9fb2d493154a3b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3e97eab21992cdea21fdd943fb14a386132f4437a34e8f710759e48fd54e8e13"
+hash = "bf98a184e9ff0391235be04cfef0aac081330df2842fae23fc25decc1af27e64"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -26,7 +30,7 @@ hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
 
 [[files]]
 file = "config/yosbr/config/chunksfadein.properties"
-hash = "50fa5759a88c3a92ad50f53ee631cc7ea710921644b961f8116b8eda6aac8d77"
+hash = "64d3b979170ef9b3722cfa9a3ac3d364b0a14a7a2f1f4e982393c86489dc6d18"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -50,23 +54,23 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
-hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
+hash = "ba5f5ccfd31e25f9feb4730dfc01ef7bee4156b3336453cbe797ffb0c51ab46f"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
-hash = "4b0f4702489795e29bd8b361393e44ec0b38f3ee1fbebb91b64c1cea7520c602"
+hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+hash = "08b789827f7cbfaf5bffd5aedb6dfe9889e216e87be4674299781934658767af"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "915a93751522dee1984c2e1f4fb82d74216a57010479a8ae4222d913218a7874"
+hash = "255a221cd0df49a6cdd04d0ea652cacaf5a3e920c23df6b94570bdfce0e034f5"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "6f5c0ba9bddb10b6209912ed22bd310be56a9d5dd7da59772545bbfba080f786"
+hash = "74bd4877771e9bd196f268ef2b80b0e8385f458918c79f54ce11c95e8a4a1d44"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
@@ -74,7 +78,7 @@ hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "72faf402ad11962d24c37c4d816d3992b2fd3bce5e371b5ec005d710af2ec179"
+hash = "5e3fd107ea9638cc35476393dd83a1d131e5069c19d40de455b3ccfa2db8e20a"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -86,7 +90,7 @@ hash = "010db0b80e2020a61272588e82c39aa27a0a4882ce3c5ac0e549c25eabdf460c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "6646a3714eb504ce5c01d2a59107a3651a6a81553d3dc81ef60f75cb013c5271"
+hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -94,7 +98,7 @@ hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "3630be880dc7f037238b7e6347201d4f716ffc7e16db0a1498ef2f775cf8f5be"
+hash = "6b44bfd3fc7ee9d8f589425503e2af2748aa274d080f6d270d34cbc1b5604d45"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -102,35 +106,35 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/config/viewboboptions.json5"
-hash = "17289d337b37e18eea9463afea5f5bb298c131be4ed47829c2819c1fc6be74a9"
+hash = "d585a6b502ffdc7407e2fa176f8a002a37739ee825d7b0354080cfd8f26d149f"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "c4695fb62360323cb8eb4c6af9a4ff40c3782fccad738ed1915290ccde0ec5fb"
+hash = "979785558fc441f62708800f825d776bd53b23f10e4c6274bc64d486cafd26e5"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "d99245fe0d83a42ca79415719013a345ea7693d2967d2cb5235e808180fa43ce"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "c2cb6517b7424f442d41c23ceb8438eeab7c594a610759678a65f85968b11470"
+hash = "022cfc0dc46de723cb3b0354c70c5216e990c7dd88f33f5c5898da93b7e44d86"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "92b4c6fdcd7aea8af451f88e19cfbfb581bdba2426d4d7197c47ed47312f7bcb"
+hash = "7dc96ca2027c5340ba07ee363ca67c7085efa7718ec6a936694dff66fd3bf6bb"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
