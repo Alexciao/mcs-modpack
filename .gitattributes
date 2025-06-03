@@ -1,0 +1,5 @@
+*.properties text eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+*.json5 text eol=lf
+*.txt text eol=lf
