@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/settings.json"
-hash = "cd9dbd027d1f08fe0942d995972633cc1f68ed873c90ea9d7eaa509b005b6c43"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "f889e938a23d91a8d2355e0103cefff2424158ed1e48fc5dcc9fb2d493154a3b"
 
