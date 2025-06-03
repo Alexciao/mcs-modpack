@@ -129,12 +129,16 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "6d7552e2e70b49a6f42bc5a0b614f530f42e0b91c336d6674c086d09014145dd"
+
+[[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "022cfc0dc46de723cb3b0354c70c5216e990c7dd88f33f5c5898da93b7e44d86"
+hash = "a3c22667315984759dc94d5db003fd883adebd7ab9517922f96dc4d57a3ec4f2"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7dc96ca2027c5340ba07ee363ca67c7085efa7718ec6a936694dff66fd3bf6bb"
+hash = "60b64d43ff1dea20861fbce22c96054bf32b43ffdd90d6f147aa1a2aef5dc2c6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
